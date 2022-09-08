@@ -1,2 +1,9 @@
 # lp26
-learn python course. 26 stream
+
+
+## Auto creator PNG
+
+### Auditories
+### Functuions
+#### Features
+### How it work
