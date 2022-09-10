@@ -31,16 +31,4 @@ def creatorNameLayer():
 if __name__ == '__main__':
     creatorNameLayer()
 
-
-
-
-
-# def writeToListSelectedNameLayers():
-    # creatorNameLayer()
-    # NAME_LAYERS_LIST.insert(0, FILE_PATH_layerOne)
-    # NAME_LAYERS_LIST.insert(1, FILE_PATH_layerTwo)
-    # print(NAME_LAYERS_LIST)
-    # return NAME_LAYERS_LIST
-
-
 # writeToListSelectedNameLayers()
