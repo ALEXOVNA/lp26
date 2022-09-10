@@ -31,4 +31,4 @@ def creatorNameLayer():
 if __name__ == '__main__':
     creatorNameLayer()
 
-# writeToListSelectedNameLayers()
+
