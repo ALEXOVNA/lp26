@@ -1,7 +1,0 @@
-implemented:
-+ read text from file,
-+ convert all characters to lowercase,
-+ calculation of the frequency of occurrence of each word in the text,
-+ highlight top words (number of top words by default = 5)
-not implemented:
-- filter for articles, conjunctions, pronouns, prepositions
