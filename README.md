@@ -9,8 +9,8 @@
      <th>script's name</th>
      <th>what realised</th>
      <th>what it's doing</th>
-     <th>status</th>
      <th>see more</th>
+     <th>status</th>
     </tr>
     <tr>
      <th>1</th>
